@@ -1,4 +1,5 @@
 # BIOS735-GROUP1: Heart Attack Prediction in the United States
+Our group members include Ambroise Rachelle, Davis Teya, Qaqish, Ameer, Shilin Yu, and Jingying Wang.
 
 This project explores heart attack prediction using a dataset of 372,974 patients in the U.S., incorporating clinical, lifestyle, and demographic factors. Our goals are to develop a probabilistic model to estimate heart attack risk, implement the EM algorithm for parameter refinement, and compare predictive performance against machine learning methods like Random Forest.
 
